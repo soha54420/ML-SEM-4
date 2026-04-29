@@ -2,7 +2,7 @@
 
 # 🤖 Machine Learning Portfolio
 
-<img src="https://media.giphy.com/media/L0I78T4M58X0iK9yLh/giphy.gif" width="400" alt="Machine Learning Animation">
+<img src="https://raw.githubusercontent.com/abhishekkrthakur/abhishekkrthakur/master/brain.gif" width="400" alt="Machine Learning Brain Animation">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+ML+Assignments;Data+Science+%26+Analytics;Python,+Pandas,+Scikit-Learn)](https://git.io/typing-svg)
 
