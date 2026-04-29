@@ -1,4 +1,21 @@
-# Machine Learning Assignments
+<div align="center">
+
+# 🤖 Machine Learning Portfolio
+
+<img src="https://media.giphy.com/media/L0I78T4M58X0iK9yLh/giphy.gif" width="400" alt="Machine Learning Animation">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+ML+Assignments;Data+Science+%26+Analytics;Python,+Pandas,+Scikit-Learn)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/>
+</p>
+
+</div>
+
+---
 
 This repository contains various Machine Learning assignments and lab work completed using Google Colab. The assignments are exported as PDF documents containing both the code (Jupyter Notebook cells) and the corresponding output.
 
